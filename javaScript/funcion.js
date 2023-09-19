@@ -27,6 +27,8 @@
 //     };
 
 //     console.log(num); 
+// //  for return results use this: 
+//     return i;
 // };
 
 // var arr = [5, 5, 6, 8];
@@ -34,7 +36,9 @@
 
 // matrix(arr);
 // matrix(arr_2);
-
+// // for return results use also this:
+// var index = matrix(arr);
+// console.log(index);
 
 // also may return the velue of function.
 // for it, use 'return' at the end og the function and create a var
