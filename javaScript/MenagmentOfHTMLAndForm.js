@@ -8,13 +8,13 @@ function check(event) {
     
     let name  = document.getElementById("form").f_name.value;
     let sername = document.getElementById("form").l_name.value;
-    let pass = document.getElementById("form").pass;
-    let repass = document.getElementById("form").repass;
+    let pass = document.getElementById("form").pass.value;
+    let repass = document.getElementById("form").repass.value;
     let sex = document.getElementById("form").state.value;
 
     if (name == "" || sername == "") {
         alert('The fields do not be empty!')
-    } else if (pass.value == "" && repass.value == "") {
+    } else if (pass == "" && repass == "") {
         alert('Enter a pasword!')
     } else if (sex == "") {
         alert('Choose your sex!')
