@@ -13,13 +13,13 @@ function check(event) {
     let sex = document.getElementById("form").state.value;
 
     if (name == "" || sername == "") {
-        alert('The fields do not be empty!')
+        alert("The fields don't be empty!")
     } else if (pass == "" && repass == "") {
         alert('Enter a pasword!')
     } else if (sex == "") {
         alert('Choose your sex!')
     } else {
-        alert('all the was fill in cerrect!!!')
+        alert('Everything was fill in cerrect!!!');
+        window.location = 'https://github.com/rusplayhdd'
     }
-
 }
