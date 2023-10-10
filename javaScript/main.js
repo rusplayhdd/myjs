@@ -51,7 +51,7 @@ switch (str) {
 
 
 // var matrix = [
-//     ["string", 5, 6.8], [6.8, -47], "Hai!!!", [-47, false, -1.9], [true, "Hello", "!"]
+//     ["string", 5, 6.8], [6.8, -47], "Hi!!!", [-47, false, -1.9], [true, "Hello", "!"]
 // ];
 
 // matrix[3][2] = "changed!"

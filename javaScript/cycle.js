@@ -12,10 +12,13 @@
 
 // exapmle for work with array 👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 
-// var arr = new Array("string", 5, 6.8, -47, false, -1.9, true, "&&", "!")
+// var arr = new Array("string", 5, 6.8, -47, false, [1, 2, 3, 4], -1.9, true, "&&", "!")
 
 // for (var i = 0; i < arr.length; i++) {
-//     console.log( i  + ": " + arr[i])  
+//     document.write(arr[5][i])
+//     if (i > 2) {
+//         break
+//     }  
 // };
 
 

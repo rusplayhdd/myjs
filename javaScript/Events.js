@@ -1,4 +1,4 @@
-// document.getElementById('btn').addEventListener('click', onClickButton);
+// document.getElementById('btn').addEventListener('click', onClickButton); 
 // document.getElementById('inp').addEventListener('input', input);
 
 // var counter = null;
