@@ -18,14 +18,14 @@
 
 
 // for example for a different work with arrays:
-// var b = [4,6,5,4,3,2,-1];
-
+var b = [4,6,5,4,3,2,-1];
+console.log(b)
 // console.log(b.length);
 // console.log(b.join(", || "));
-// console.log(b.sort());
+// // console.log(b.sort());
 // console.log(b.sort().reverse());
-// console.log(b.sort().join(", |"));
-// console.log(b.sort().join(", |").split(" "));
+console.log(b.sort().join(", "));
+// // console.log(b.sort().join(", |").split(" "));
 
 
 

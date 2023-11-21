@@ -7,7 +7,7 @@
 //     let btn = document.getElementById('btn');
 
 //     counter++;
-//     btn.innerHTML = "You click on the butn: " + counter;
+//     btn.innerHTML = "You click on the btn: " + counter;
 //     btn.style.background = "red";
 //     btn.style.color = "blue";
 
